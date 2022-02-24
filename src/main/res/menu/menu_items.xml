@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/impostazioni"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:title="Impostazioni" />
+
+    <item
+        android:id="@+id/esci"
+        android:icon="@drawable/ic_baseline_exit_to_app_24"
+        android:title="Esci dall'app" />
+
+    <item
+        android:id="@+id/condividi"
+        android:icon="@drawable/ic_baseline_share_24"
+        android:title="Condividi" />
+
+</menu>
